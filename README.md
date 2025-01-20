@@ -29,7 +29,7 @@ The name "Tortoise" is a playful nod to the fable, where the slow and steady tor
      - Internet access and web scraping
      - Sending emails
      - Summarizing information
-     - Any other custom workflows
+     - More tools to be added. WIP.
 
 5. **Real-Life Applications**
    - Automating day-to-day tasks, such as a sales agent’s routine (e.g., sending emails, following up with clients).
