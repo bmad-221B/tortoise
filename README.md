@@ -2,6 +2,8 @@
 
 Tortoise is a **Persona-Based Large Action Model (LAM)** designed to streamline workflows and enhance user efficiency. Inspired by the classic tortoise and rabbit fable, Tortoise focuses on consistent and reliable performance, ensuring that user interactions are intuitive, efficient, and productive.
 
+> **Warning**: This project is still a work in progress. Features and functionalities may change as development continues.
+
 ## **Why "Tortoise"?**
 The name "Tortoise" is a playful nod to the fable, where the slow and steady tortoise triumphs over the speedy but careless rabbit. Similarly, while traditional LAMs (like Rabbit) may falter, Tortoise excels by prioritizing reliability, persistence, and user-centric design.
 
@@ -79,37 +81,7 @@ Tortoise comes equipped with a powerful set of tools, including:
 
 ---
 
-## **Getting Started**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/bmad-221B/tortoise.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd tortoise
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the application:
-   ```bash
-   python tortoise.py
-   ```
-
----
 
 ## **Contributing**
 Contributions are welcome! If you have ideas or improvements, feel free to open an issue or submit a pull request.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## **Contact**
-For inquiries or support, reach out via GitHub issues or email us at `support@tortoise.ai`.
 
